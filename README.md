@@ -1,4 +1,4 @@
-# Akbank-Makine--renmesi-Bootcamp-2024
+# Akbank-Makine-Ogrenmesi-Bootcamp-2024
 Dataset
 The dataset used in this project is sourced from "https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009" link. It consists of several attributes such as fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, and quality.
 
